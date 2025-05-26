@@ -1,0 +1,9 @@
+{
+  "/page": "app/page.js",
+  "/projects/page": "app/projects/page.js",
+  "/new-project/page": "app/new-project/page.js",
+  "/projects/[projectId]/settings/page": "app/projects/[projectId]/settings/page.js",
+  "/projects/[projectId]/page": "app/projects/[projectId]/page.js",
+  "/projects/[projectId]/settings/access/page": "app/projects/[projectId]/settings/access/page.js",
+  "/projects/[projectId]/insights/page": "app/projects/[projectId]/insights/page.js"
+}
